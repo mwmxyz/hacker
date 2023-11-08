@@ -7,4 +7,4 @@ theme: jekyll-theme-hacker
 plugins:
   - jekyll-remote-theme
 
-remote_theme: mwmxyz.github.io/hacker
+remote_theme:  pages-themes.github.io/hacker/ 

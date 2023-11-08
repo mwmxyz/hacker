@@ -1,10 +1,1 @@
-title: DIG2000
-description: Syllabus for DIG2000 Introduction to Digital Media
-show_downloads: true
-google_analytics:
 theme: jekyll-theme-hacker
-
-plugins:
-  - jekyll-remote-theme
-
-remote_theme:  pages-themes.github.io/hacker/ 

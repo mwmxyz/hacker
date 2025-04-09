@@ -2,5 +2,5 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 theme: jekyll-theme-hacker
-title: DIG4595 - Portfolio Development - Syllabus 
-description: A syllabus made with a jekyll theme
+title: XYZ0001 - Makerly Prorotyping - Syllabus 
+description: A remix of Critical Making, designed by Michael W. Merriam and based on material by Emily Johnson and Anastasia Salter, taught by Emily Johnson
